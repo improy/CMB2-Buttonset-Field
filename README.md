@@ -20,6 +20,6 @@ array(
 ## Screenshots
 <img src="https://github.com/improy/CMB2-Buttonset-Field/blob/master/CMB2-Buttonset-Field-Type.jpg" alt="CMB2 Buttonset Field Type"/>
 
-## Tutorial on how to integrate Slider field in to a WordPress theme 
-http://www.proy.info/how-to-create-cmb2-slider-field-type/
+## Tutorial on how to integrate Buttonset field in to a WordPress theme 
+http://www.proy.info/how-to-create-cmb2-buttonset-field-type/
 
