@@ -1,4 +1,4 @@
-# CMB2-Buttonset-Field
+# CMB2 Buttonset Field Type
 CMB2 Buttonset field type. Ready to integrated with a theme
 
 ## Use
@@ -18,7 +18,7 @@ array(
 )  
 ```
 ## Screenshots
-<img src="https://github.com/imraviroy/CMB2-Buttonset-field/blob/master/CMB2-Buttonset-Field-Type.jpg" alt="Image"/>
+<img src="https://github.com/improy/CMB2-Buttonset-Field/blob/master/CMB2-Buttonset-Field-Type.jpg" alt="CMB2 Buttonset Field Type"/>
 
 ## Tutorial on how to integrate Slider field in to a WordPress theme 
 http://www.proy.info/how-to-create-cmb2-slider-field-type/
